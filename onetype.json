@@ -1,0 +1,14 @@
+{
+	"slug": "onetype/elements",
+	"name": "Elements",
+	"version": "0.1.0",
+	"description": "The element library of the platform. Forms, cards, charts, data views, navigation and status blocks — the shared visual language every package can build screens from.",
+	"icon": "grid_view",
+	"color": "rgba(167, 139, 250, 1)",
+	"core": ">=0.1.0",
+	"status": "disabled",
+	"depends": [],
+	"runtimes": [],
+	"permissions": [],
+	"config": {}
+}
