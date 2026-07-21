@@ -1,6 +1,6 @@
 {
-	"slug": "onetype/elements",
-	"name": "Elements",
+	"slug": "onetype/ui",
+	"name": "UI",
 	"version": "0.1.0",
 	"description": "The element library of the platform. Forms, cards, charts, data views, navigation and status blocks — the shared visual language every package can build screens from.",
 	"icon": "grid_view",
@@ -8,7 +8,7 @@
 	"core": ">=0.1.0",
 	"status": "disabled",
 	"depends": [],
-	"runtimes": [],
+	"runtimes": ["admin"],
 	"permissions": [],
 	"config": {}
 }

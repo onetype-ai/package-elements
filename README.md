@@ -1,4 +1,4 @@
-# Elements
+# UI
 
 The element library of the OneType platform. Forms, cards, charts, data views, navigation and status blocks — the shared visual language every package can build screens from.
 
