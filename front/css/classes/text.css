@@ -1,0 +1,21 @@
+.ot-mono
+{
+	font-family: var(--ot-font-mono);
+	font-size: var(--ot-size-s);
+	letter-spacing: 0.02em;
+}
+
+.ot-label
+{
+	font-family: var(--ot-font-mono);
+	font-size: var(--ot-size-s);
+	font-weight: 500;
+	letter-spacing: 0.04em;
+	color: var(--ot-brand);
+}
+
+.ot-dot
+{
+	color: var(--ot-brand);
+	margin-left: 0.08em;
+}
